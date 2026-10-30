@@ -1,5 +1,5 @@
-# My Advanced Programming University Project in Python
-# WorldCupSimulator
+# My Advanced Programming Course Project at University, Developed in Python
+# Worldcup Simulator
 ## هدف کلی پروژه
 
 طراحی و پیاده‌سازی یک برنامه شبیه‌ساز جام جهانی فوتبال (با حضور ۳۲ تیم) با استفاده از اصول برنامه‌نویسی شیءگرا، به‌گونه‌ای که قابلیت‌های زیر را داشته باشد:
